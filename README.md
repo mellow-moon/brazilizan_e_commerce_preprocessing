@@ -112,3 +112,13 @@
 ![Ipynb](https://img.shields.io/badge/Python-numpy-blue.svg?style=flat&logo=python&logoColor=white)
 
 # Визуализации в Tableau
+
+Ссылка на дашборд: https://public.tableau.com/app/profile/mikhail.krivosheev/viz/Braziliane-commerce_16899632443780/DashbardSales?publish=yes
+
+### Продажи
+
+![Dashbard Sales](https://github.com/mellow-moon/brazilizan_e_commerce_preprocessing/assets/106676401/8cf0f15b-c321-442c-bd9c-06cd5773f732)
+
+### Заказы
+
+![Dashbard Quantity](https://github.com/mellow-moon/brazilizan_e_commerce_preprocessing/assets/106676401/93a99c66-47a5-4c3b-9d65-d66f08cf24b6)
